@@ -12,10 +12,10 @@ Imports System.Windows
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("HierarchicalDataGridExample")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Microsoft")>
+<Assembly: AssemblyDescription("Hierarchical DataGrids are not easy. This is the simpliest way I have found to accomplish the task.")>
+<Assembly: AssemblyCompany("Trey Tomes")>
 <Assembly: AssemblyProduct("HierarchicalDataGridExample")>
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2016")>
+<Assembly: AssemblyCopyright("Copyright © Trey Tomes 2020")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: ComVisible(false)>
 
